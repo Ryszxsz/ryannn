@@ -1,5 +1,9 @@
 <p>
-    <strong>Tools Yang Digunakan</strong>
+    <strong>Tools Yang Digunakan
+            -Laravel
+            -Xampp
+            -Composer
+    </strong>
 </p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
