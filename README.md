@@ -1,3 +1,5 @@
+<p> Tools Yang Digunakan</p>
+
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(2).png?raw=true)
