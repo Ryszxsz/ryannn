@@ -10,6 +10,13 @@
 <p><strong>-Xampp</strong></p>
 <p><strong>-Composer</strong></p>
 
+<p><strong>Saya membuat GaleriWebFoto dengan menggunakan laravel. Saya membuat web foto ini dengan cara sederhana, ada beberapa fitur yang saya gunakan diantaranya:</strong></p>
+<p><strong>-Login</strong></p>
+<p><strong>-Registrasi</strong></p>
+<p><strong>-Logout</strong></p>
+<p><strong>-Menambah dan Menghapus Foto</strong></p>
+<p><strong>-Share dan Download foto</strong></p>
+
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(2).png?raw=true)
