@@ -8,7 +8,7 @@
 <p><strong>INSTALASI</strong></p>
 <p><strong>Sebelum menginstall laravel kita Membutuhkan:</strong></p>
 <p><strong>-Xampp</strong></p>
-<p><strong>Composer</strong></p>
+<p><strong>-Composer</strong></p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
