@@ -5,6 +5,11 @@
 <p><strong>-Git Bash (Versi 2.44.0.windows.1)</strong></p>
 <p><strong>-Diagram DrawIo (Versi 24.2.8)</strong></p>
 
+<p><strong>INSTALASI</strong></p>
+<p><strong>Sebelum menginstall laravel kita Membutuhkan:</strong></p>
+<p><strong>-Xampp</strong></p>
+<p><strong>Composer</strong></p>
+
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(2).png?raw=true)
