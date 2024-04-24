@@ -1,6 +1,7 @@
 <p><strong>TOOLS YANG DIGUNAKAN</strong></p>
 <p><strong>-Laravel</strong></p>
 <p><strong>-Xampp</strong></p>
+<p><strong>PHP</strong></p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
