@@ -1,4 +1,4 @@
-<p> Tools Yang Digunakan</p>
+<p text="bold"> Tools Yang Digunakan</p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
