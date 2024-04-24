@@ -1,7 +1,10 @@
 <p><strong>TOOLS YANG DIGUNAKAN</strong></p>
 <p><strong>-Laravel</strong></p>
 <p><strong>-Xampp</strong></p>
-<p><strong>PHP</strong></p>
+<p><strong>-PHP</strong></p>
+<p><strong>-Composer</strong></p>
+<p><strong>-Git Bash</strong></p>
+<p><strong>-Diagram DrawIo</strong></p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
