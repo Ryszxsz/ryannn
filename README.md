@@ -1,10 +1,9 @@
 <p><strong>TOOLS YANG DIGUNAKAN</strong></p>
 <p><strong>-Laravel</strong></p>
-<p><strong>-Xampp</strong></p>
-<p><strong>-PHP</strong></p>
-<p><strong>-Composer</strong></p>
-<p><strong>-Git Bash</strong></p>
-<p><strong>-Diagram DrawIo</strong></p>
+<p><strong>-Xampp (Versi 8.2.12)</strong></p>
+<p><strong>-Composer (Versi 2.7.3)</strong></p>
+<p><strong>-Git Bash (Versi 2.44.0.windows.1)</strong></p>
+<p><strong>-Diagram DrawIo (Versi 24.2.8)</strong></p>
 
 ![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
 
