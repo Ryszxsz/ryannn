@@ -1,5 +1,6 @@
 <p><strong>TOOLS YANG DIGUNAKAN</strong></p>
 <p><strong>-Laravel</strong></p>
+<p><strong>-Visual Studio Code (Versi 1.88)</strong></p>
 <p><strong>-Xampp (Versi 8.2.12)</strong></p>
 <p><strong>-Composer (Versi 2.7.3)</strong></p>
 <p><strong>-Git Bash (Versi 2.44.0.windows.1)</strong></p>
